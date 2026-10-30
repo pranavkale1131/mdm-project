@@ -1,2 +1,5 @@
-# mdm-project
-PriceWise
+The Pricing Table with Monthly/Yearly Toggle is a responsive web development project designed to display different subscription plans and allow users to compare monthly and yearly pricing options. The website includes three pricing plans: Starter, Professional, and Business, each offering different features and benefits.
+
+The project is developed using HTML5, CSS3, and JavaScript. HTML is used to create the structure of the website, CSS is used to design an attractive and responsive user interface, and JavaScript is used to implement the monthly/yearly toggle functionality. When users switch between billing options, the displayed prices and billing information are updated dynamically without reloading the page.
+
+The main objective of this project is to provide a simple, interactive, and user-friendly interface that helps users compare subscription plans easily. This project demonstrates the practical application of front-end web development concepts, including responsive design, event handling, and DOM manipulation.
